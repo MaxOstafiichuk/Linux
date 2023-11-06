@@ -1,1 +1,1 @@
-This is repository for studying
+This is my working directory.

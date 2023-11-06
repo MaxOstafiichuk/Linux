@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello"
+mkdir $1 $2
