@@ -1,1 +1,1 @@
-Hi 
+This is repository for studying
